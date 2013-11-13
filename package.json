@@ -1,6 +1,6 @@
 {
   "name": "chinstrap-engine",
-  "version": "0.0.1",
+  "version": "0.8.0",
   "description": "The chinstrap rendering engine.",
   "main": "./app/chinstrap.js",
   "scripts": {
